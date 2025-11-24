@@ -1,6 +1,6 @@
 # 🌐 My Personal Portfolio
 
-Hi! I'm Vidhant Goel, a BCA student and aspiring Army officer who’s also learning web development as a backup career path. This is my **first portfolio website** built using pure 
+Hi! I'm Vidhant Goel, a B.Tech student who’s learning web development. This is my **first portfolio website** built using pure 
 HTML to showcase my background, skills, and goals.
 
 ## 🔗 Live Demo
