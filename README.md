@@ -5,7 +5,7 @@ HTML to showcase my background, skills, and goals.
 
 ## 🔗 Live Demo
 
-👉 [View My Portfolio](https://vidhangoel111.github.io/Portfolio/)
+👉 [View My Portfolio]
 
 ---
 
